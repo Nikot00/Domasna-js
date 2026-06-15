@@ -1,0 +1,17 @@
+#posts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.post {
+  background-color: lightblue;
+  width: 250px;
+  border: 1px solid black;
+  border-radius: 12px;
+  padding: 12px;
+}
+
+.innerTitle {
+  font-weight: bold;
+}
