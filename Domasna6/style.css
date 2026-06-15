@@ -1,0 +1,11 @@
+#students {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.studentsInfo {
+    border: 1px solid blueviolet;
+    width: 250px;
+    padding: 10px;
+}
