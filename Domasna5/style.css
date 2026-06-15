@@ -1,0 +1,40 @@
+
+
+#episodes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+#show-container {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.episode-content {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.episode {
+    border: 1px solid black;
+    border-radius: 12px;
+    padding: 12px;
+    background-color: bisque;
+    margin-top: 20px;
+}
+
+#next-btn {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    color: white;
+    padding: 10px;
+    background-color: rgb(3, 107, 107);
+}
+
+#show-img {
+    padding:  0px;
+}
